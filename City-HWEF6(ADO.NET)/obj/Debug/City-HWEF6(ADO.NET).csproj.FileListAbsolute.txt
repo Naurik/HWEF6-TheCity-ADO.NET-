@@ -1,0 +1,17 @@
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\City-HWEF6(ADO.NET).exe.config
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\City-HWEF6(ADO.NET).exe
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\City-HWEF6(ADO.NET).pdb
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\EntityFramework.dll
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\EntityFramework.xml
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City-HWEF6(ADO.NET).csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City_HWEF6_ADO.NET_.CityForms.resources
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City_HWEF6_ADO.NET_.Form1.resources
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City_HWEF6_ADO.NET_.Properties.Resources.resources
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City-HWEF6(ADO.NET).csproj.GenerateResource.cache
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City-HWEF6(ADO.NET).csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City-HWEF6(ADO.NET).csproj.CopyComplete
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City-HWEF6(ADO.NET).exe
+c:\users\acer-pc\source\repos\City-HWEF6(ADO.NET)\City-HWEF6(ADO.NET)\obj\Debug\City-HWEF6(ADO.NET).pdb
